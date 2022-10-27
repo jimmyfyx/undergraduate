@@ -8,7 +8,7 @@ Techniques used in this project:
 - Forward Kinematics
 - Inverse Kinematics
 
-## Commands Lines to run the code
+## Command Lines to run the code
 ### Terminal 1  
 #### $ cd ~/catkin_NETID  
 #### $ catkin_make  
