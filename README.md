@@ -1,3 +1,2 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+# Yixiao's Coding Base
+Currently, this repository contains all my work from all the coding-related courses at UIUC during my undergraduate study (2020 - 2024). Each folder corresponds to a course. 
