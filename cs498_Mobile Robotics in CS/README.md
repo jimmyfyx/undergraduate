@@ -7,4 +7,4 @@ This course is about principles in mobile robotics, including basic kinematics, 
 
 More information please refer to the course website: http://daslab.illinois.edu/coursesfall2021.html
 
-**11/9/2022 Update** add coding exercise 1 relevant files in the ROS2 workspace (course in progress)
+**11/9/2022 Update** coding exercise 1 relevant files added in the ROS2 workspace (course in progress)
