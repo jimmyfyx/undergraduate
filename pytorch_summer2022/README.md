@@ -1,4 +1,4 @@
-# Pytorch_Tutorial
+# pytorch_summer2022
 Currently, this folder contains my accomplishment during Summer 2022 while self-studying Pytorch from online sources and guidance from Ye-Ji Mun(yejimun2@illinois.edu), a graduate student of the Human-Centered Autonomy Lab at UIUC. 
 
 Start from the basics Model, Linear Regression and Logistics Regression, to CNN, RNN, LSTM, and ConvLSTM. <br/>
