@@ -11,4 +11,8 @@ More information please refer to the course website: http://daslab.illinois.edu/
 **12/28/2022 Update** reupload the ROS2 workspace, including coding exercise 3 and final project relevant files
 
 ## Instructions to build the complete ROS2 workspace
+**Due to the file size limit of GitHub, some files in the original ROS2 workspace are not uploaded, so there are few additional steps to take to build the complete ROS2 workspace.**
+
 Inside the folder *cs498_ros2ws*, there only exists the *src* folder of the workspace. To build the complete workspace, a new ROS2 workspace is needed, then put the package *mobile_robotics* into the *src* folder in the new workspace. Finally, build the new workspace to finish.
+
+Besides 
