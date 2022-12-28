@@ -18,3 +18,6 @@ Inside the folder *cs498_ros2ws*, there only exists the *src* folder of the work
 In addition, there are some other requirements that need to be installed to run the scripts: <br/>
 - To run the script of coding exercise 3, the *lidar* rosbag file is required (https://drive.google.com/drive/folders/1j3mt22w97_7BYBUkn2Kr3sK8uN2--6g9?usp=share_link). Download the files and put them in a folder called *lidar*, then put the *lidar* folder in anywhere in the workspace you like. Also, follow the instructions in *2022_Coding exercise 3.pdf* to install Gmapping for ROS2. <br/>
 - To run the script of rtabmap exercise (final project), follow the instructions in *2022_Final project.pdf* to install two rosbag files and the rtabmap package for ROS2 (https://github.com/introlab/rtabmap_ros/tree/ros2#rtabmap_ros).
+
+## RTAB-Map exercise clarification
+
