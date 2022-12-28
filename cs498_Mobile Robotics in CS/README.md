@@ -28,3 +28,4 @@ Run the following command to evaluate the error:
 ```
 >> python evaluate_ate.py ekf_tra.txt rtabmap_tra.txt --plot figure.png --offset 0 --scale 1 --verbose
 ```
+A plot named *figure.png* will be generated. *evaluate_ate.py* is in the folder *\cs498_ros2ws\rtabmap_evaluation*.
