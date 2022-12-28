@@ -24,3 +24,7 @@ To evaluate the error between the ground-truth trajectories and the rtabmap traj
 ```
 timestamp x y z qx qy qz qw
 ```
+Run the following command to evaluate the error:
+```
+>> python evaluate_ate.py ekf_tra.txt rtabmap_tra.txt --plot figure.png --offset 0 --scale 1 --verbose
+```
