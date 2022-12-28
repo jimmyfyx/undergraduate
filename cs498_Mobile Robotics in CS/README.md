@@ -21,6 +21,6 @@ In addition, there are some other requirements that need to be installed to run 
 
 ## RTAB-Map exercise clarification
 To evaluate the error between the ground-truth trajectories and the rtabmap trajectories, the **TUM tools** is needed. After running *rtabmap_node.py*, it will generate two files *ekf_tra.txt* and *rtabmap_tra.txt*, corresponding to ground-truth and rtabmap trajectories. Each waypoint of the trajectory is represented in the form:
-'''
+```
 timestamp x y z qx qy qz qw
-'''
+```
