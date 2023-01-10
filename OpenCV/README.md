@@ -6,6 +6,8 @@ This repository can be devided into the following parts:
   - `\face_detection`: demonstration about OpenCV built-in face detector
   - `\Faces` and `\Photos`: image resources
 
+**1/10/2023 Update** 2022 winter break scripts added
+
 ## Reference and Credits
 Many thanks to the YouTube channel @freecodecamp for most of the tutorial. <br/>
 https://www.freecodecamp.org/
