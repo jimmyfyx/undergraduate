@@ -7,4 +7,5 @@ This repository can be devided into the following parts:
   - `\Faces` and `\Photos`: image resources
 
 ## Reference and Credits
-Many thanks to the YouTube channel @freecodecamp for most of the tutorial.
+Many thanks to the YouTube channel @freecodecamp for most of the tutorial. <br/>
+https://www.freecodecamp.org/
