@@ -1,4 +1,9 @@
-# Yixiao's Coding Base
-Currently, this repository contains all my work from all the coding-related courses at UIUC during my undergraduate study (2020 - 2024). Each folder corresponds to a course. 
+# OpenCV Independent Study
+This repository contains all the scripts I write when learning OpenCV (until Spring 2023).
 
-I have also included the work I did during Summer 2022 as an indepedent study on Pytorch and deep learning, which is in the `\pytorch` folder.
+This repository can be devided into the following parts:
+  - `\tutorial_scripts`: scripts about basic OpenCV functions and use
+  - `\face_detection`: demonstration about OpenCV built-in face detector
+  - `\Faces` and `\Photos`: image resources
+
+
