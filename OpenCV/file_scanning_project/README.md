@@ -7,5 +7,6 @@ This is a mini-project I implemented with OpenCV, aimed to reproduce similar fun
   - After selecting the contour representing the file, we can directly apply two methods in OpenCV, `cv.getPerspectiveTransform()` and `cv.warpPerspective()` to get the bird's-eye view of the given area, which is the file. 
 
 ## Results
+The document I am using is one of the print-out lecture slides from a course I have taken before, named *ENG 298: Road Map to Graduate School*. <br/>
 The following three images are detected canny edges, detected contours (with four red dots), and the scanned file corresponding from left to right:
 ![My Image](./concate.png)
