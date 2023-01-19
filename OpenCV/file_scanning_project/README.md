@@ -12,3 +12,5 @@ All the codes are included in `file_scanning.py`, and there are specific comment
 The document I am using is one of the print-out lecture slides from a course I have taken before, named *ENG 298: Road Map to Graduate School*. <br/>
 The following three images are detected canny edges, detected contours (with four red dots), and the scanned file corresponding from left to right:
 ![My Image](./concate.png)
+
+**1/18/2023 Update** the code uploaded and finished README
