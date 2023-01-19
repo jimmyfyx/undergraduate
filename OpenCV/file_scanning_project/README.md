@@ -1,6 +1,8 @@
 # File Scanning with OpenCV
 This is a mini-project I implemented with OpenCV, aimed to reproduce similar functions of most file scanning applications on our phones. Given a file sitting on the desk, the program should automatically detect whether there is a file and determine its precise position. Finally, return the picture of the file in bird's-eye view.
 
+All the codes are included in `file_scanning.py`, and there are specific comments for each used function.
+
 ## Methods (High-Level Idea)
   - Since the file is always in rectangle shape, we can use this characteristic to find the contour that looks most like a rectangle.
     - If there are multiple rectangles detected, we can differentiate them with the area inside the contours; If the include area is too small, then it can be a file with a very low probability.
