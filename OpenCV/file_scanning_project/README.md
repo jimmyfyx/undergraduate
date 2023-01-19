@@ -3,6 +3,7 @@ This is a mini-project I implemented with OpenCV, aimed to reproduce similar fun
 
 ## Methods (High-Level Idea)
   - Since the file is always in rectangle shape, we can use this characteristic to find the contour that looks most like a rectangle.
+    - If there are
 
 ## Results
 The following three images are detected canny edges, detected contours (with four red dots), and the scanned file corresponding from left to right:
